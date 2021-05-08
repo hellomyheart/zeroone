@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
-    <el-row type="flex" align="middle" justify="center">
+  <el-row type="flex" align="middle" justify="center">
     <el-col :span="8">
       <el-button type="success">按钮</el-button>
     </el-col>
