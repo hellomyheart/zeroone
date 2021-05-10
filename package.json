@@ -19,6 +19,7 @@
   "mainComment": "app.asar There must be a main entry. In fact, the app.asar Decompress and you'll find that there are background.js So our package.json To set the entry in, that is, main: background.js",
   "main": "background.js",
   "dependencies": {
+    "arangojs": "^7.5.0",
     "core-js": "^3.10.2",
     "element-plus": "^1.0.2-beta.40",
     "vue": "^3.0.11",
